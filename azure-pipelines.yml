@@ -9,9 +9,9 @@ trigger:
 #pool:
 #  
 pool:
-  #name: Default
-  name: Agent1
-  vmImage: 'windows-latest'
+  name: Default
+  vmImage: Agent1
+  #vmImage: 'windows-latest'
 
 variables:
   solution: '**/*.sln'
