@@ -5059,11 +5059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WebAutoTest\\RSAT\\SVN\\sourceCode\\NUnitTestProject1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectUniqueName": "E:\\WebAutoTest\\RSAT\\sourceCode\\NUnitTestProject1\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "projectName": "NUnitTestProject1",
-      "projectPath": "E:\\WebAutoTest\\RSAT\\SVN\\sourceCode\\NUnitTestProject1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectPath": "E:\\WebAutoTest\\RSAT\\sourceCode\\NUnitTestProject1\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\SAP\\.nuget\\packages\\",
-      "outputPath": "E:\\WebAutoTest\\RSAT\\SVN\\sourceCode\\NUnitTestProject1\\NUnitTestProject1\\obj\\",
+      "outputPath": "E:\\WebAutoTest\\RSAT\\sourceCode\\NUnitTestProject1\\NUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
