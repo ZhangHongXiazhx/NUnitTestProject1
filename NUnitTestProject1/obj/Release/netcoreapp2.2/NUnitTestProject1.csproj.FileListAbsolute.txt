@@ -16,4 +16,3 @@ E:\WebAutoTest\RSAT\SVN\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Relea
 E:\WebAutoTest\RSAT\SVN\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Release\netcoreapp2.2\NUnitTestProject1.AssemblyInfo.cs
 E:\WebAutoTest\RSAT\SVN\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Release\netcoreapp2.2\NUnitTestProject1.dll
 E:\WebAutoTest\RSAT\SVN\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Release\netcoreapp2.2\NUnitTestProject1.pdb
-E:\WebAutoTest\RSAT\SVN\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Release\netcoreapp2.2\NUnitTestProject1.csprojAssemblyReference.cache
