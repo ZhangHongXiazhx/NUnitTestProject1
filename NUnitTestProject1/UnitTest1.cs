@@ -21,9 +21,9 @@ public class Test1Test
     [SetUp]
     public void SetUp()
     {
-        //driver = new FirefoxDriver();
+        driver = new FirefoxDriver();
         //driver = new InternetExplorerDriver();
-        driver = new ChromeDriver();
+        //driver = new ChromeDriver();
         js = (IJavaScriptExecutor)driver;
         vars = new Dictionary<string, object>();
     }
