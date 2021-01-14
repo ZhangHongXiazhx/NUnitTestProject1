@@ -44,7 +44,6 @@ E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\bin\Debug\net
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.runtimeconfig.dev.json
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.dll
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.pdb
-E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.csprojAssemblyReference.cache
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.csproj.CoreCompileInputs.cache
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.AssemblyInfoInputs.cache
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.AssemblyInfo.cs
