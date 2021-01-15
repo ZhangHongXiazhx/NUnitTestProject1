@@ -9,7 +9,7 @@ trigger:
 #pool:
 #  
 pool:
- # name: Default
+  name: Default
   vmImage: Agent1
   #vmImage: 'windows-latest'
 
