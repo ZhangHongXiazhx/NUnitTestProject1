@@ -86,7 +86,7 @@ public class Test1Test
         driver.FindElement(By.Id("idBtn_Back")).Click();
         try
         {
-            Thread.Sleep(4000);
+            Thread.Sleep(5000);
         }
         catch (Exception e)
         {

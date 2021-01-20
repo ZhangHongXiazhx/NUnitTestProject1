@@ -1,6 +1,5 @@
 C:\Users\SAP\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
 C:\Users\SAP\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
-C:\Users\SAP\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
 C:\Users\SAP\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.deps.json
 C:\Users\SAP\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.runtimeconfig.json
 C:\Users\SAP\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnitTestProject1.runtimeconfig.dev.json
@@ -49,3 +48,9 @@ E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Debug\net
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.AssemblyInfo.cs
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.dll
 E:\WebAutoTest\RSAT\sourceCode\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.2\NUnitTestProject1.pdb
+C:\Users\SAP\Source\Repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\testhost.exe
+C:\Users\SAP\Source\Repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\testhost.dll
+C:\Users\SAP\Source\Repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\SAP\Source\Repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\Users\SAP\Source\Repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+C:\Users\SAP\Source\Repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.core.dll
